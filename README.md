@@ -18,9 +18,9 @@ JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic langua
 - Let
 - Const
 
-![](.001.png)
+![](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/001.png)
 
-![](.002.jpeg)
+![](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/002.png)
 
 ## **Reassignable vs Redeclarable in JavaScript**
 ### 1. Reassign
@@ -160,26 +160,26 @@ Any variable declared outside of a function is said to have Global Scope.
 
 In simple terms, a variable that can be accessed anywhere in the program is known as a variable with global scope. Globally scoped variables can be defined using any of the three keywords: **let, const**, and **var**. 
 
-![](.003.png)
+![](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/003.png)
 
 ### Local Scope
 Any variable that you declare inside a function is said to have Local Scope. You can access a local variable can within a function. If you try to access any variable defined inside a function from outside or another function, it throws an error.
 
-![](.004.png)
+![](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/004.png)
 
 ### Block Scope
 With the introduction of let and const keywords, it added a new type of Scope in JavaScript. You cannot access the variables declared inside a particular block (represented by {}) from outside the block.
 
 Block Scope is the area within if, switch conditions and for, while loops
 
-![](005.png)
+![](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/005.png)
 
 The block scope does not work with the **var** keyword. You can either use let or const keywords for that.
 
 ### Function Scope
 With the creation of each new function, it creates a new scope in JavaScript. You cannot access variables defined inside a function from outside the function or from another function. Var, let, and const work similarly when used inside a function.
 
-![](.006.png)
+![](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/006.png)
 
 ### Lexical Scope
 Lexical Scope allows inner functions to access the scope of their outer functions.
