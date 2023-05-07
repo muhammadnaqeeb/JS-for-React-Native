@@ -199,7 +199,7 @@ outer();  // 323
 ```
 
 # Datatypes
-![Data Types in JavaScript](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/007.png)
+![Data Types in JavaScript](https://github.com/muhammadnaqeeb/JS-for-React-Native/blob/main/Images/007.jpeg)
 
 - **Number**: represents numeric values.
 - **String**: represents textual data.
